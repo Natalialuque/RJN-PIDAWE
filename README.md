@@ -1,7 +1,6 @@
 # RJN PIDAWE
 
 Plataforma educativa que conecta estudiantes con profesores mediante un sistema de recomendación inteligente.  
-Proyecto desarrollado con metodología ágil Scrum, en sprints semanales y con un equipo multidisciplinar.
 
 ---
 
@@ -47,7 +46,7 @@ Proyecto desarrollado con metodología ágil Scrum, en sprints semanales y con u
 
 ---
 
-## ⚠️ Riesgos y medidas preventivas
+## Riesgos y medidas preventivas
 
 - **Pérdida de datos** → copias de seguridad periódicas en MongoDB y AWS/Azure.  
 - **Errores en despliegue** → validación en *staging* + CI/CD automatizado.  
@@ -81,7 +80,6 @@ Duración total: **6 meses**
 
 ## Valoración económica
 
-- **Estimación**: 850 horas de desarrollo.  
 - **Coste medio**: 25 €/hora → **21.250 €**.  
 - **Licencias y hosting**: **1.600 €/año**.  
 - **Total inicial**: **22.850 €**.  
