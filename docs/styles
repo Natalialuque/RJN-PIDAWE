@@ -46,8 +46,6 @@
 ---
 
 ### Capturas del prototipo (Figma)
-*(Añadir capturas exportadas desde Figma en `/docs/screenshots` y enlazarlas aquí)*  
-
 Ejemplo:  
 ```markdown
 ![Pantalla de inicio](docs/screenshots/figma-home.png)
