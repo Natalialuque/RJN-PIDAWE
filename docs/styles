@@ -1,0 +1,54 @@
+##  Guía de estilos (UI/UX)
+
+###  Colores principales
+- **Primario**: `#1E1E1E` (fondo oscuro principal)  
+- **Secundario**: `#FFFFFF` (texto principal)  
+- **Accento**: `#4CAF50` (botones de acción, confirmaciones)  
+- **Error/Alerta**: `#FF5252` (mensajes de error, validaciones)  
+- **Neutro**: `#F5F5F5` (fondos de tarjetas, secciones claras)  
+
+---
+
+###  Tipografía
+- **Fuente principal**: [Roboto](https://fonts.google.com/specimen/Roboto) (Google Fonts)  
+- **Fuente secundaria**: [Open Sans](https://fonts.google.com/specimen/Open+Sans)  
+- **Jerarquía**:  
+  - Títulos → `Roboto Bold 24px`  
+  - Subtítulos → `Roboto Medium 18px`  
+  - Texto → `Open Sans Regular 14px`  
+
+---
+
+### Componentes reutilizables
+- **Botones**:  
+  - Primario → color de acento, bordes redondeados, hover con sombra.  
+  - Secundario → fondo neutro, borde gris, hover con cambio de color.  
+- **Inputs**:  
+  - Campos de texto con borde suave y validación en tiempo real.  
+- **Cards**:  
+  - Fondo neutro, esquinas redondeadas, sombra ligera.  
+- **Navbar**:  
+  - Fijo arriba, color primario, iconos y enlaces claros.  
+
+---
+
+###  Diseño responsive
+- **Mobile-first**: Diseño inicial pensado para pantallas pequeñas.  
+- **Breakpoints**:  
+  - `≤ 576px` → vista móvil.  
+  - `≥ 768px` → vista tablet.  
+  - `≥ 1024px` → vista escritorio.  
+- **Adaptaciones**:  
+  - Menús hamburguesa en móvil.  
+  - Grid flexible en escritorio.  
+  - Imágenes escalables y tipografía fluida.  
+
+---
+
+### Capturas del prototipo (Figma)
+*(Añadir capturas exportadas desde Figma en `/docs/screenshots` y enlazarlas aquí)*  
+
+Ejemplo:  
+```markdown
+![Pantalla de inicio](docs/screenshots/figma-home.png)
+![Flujo de registro](docs/screenshots/figma-register.png)
